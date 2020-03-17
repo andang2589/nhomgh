@@ -1,1 +1,2 @@
-add idd
+Tim hieu git và github
+
